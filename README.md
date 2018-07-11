@@ -1,2 +1,2 @@
 # redis-test
-Testing use of redis for session
+Proof of concept for use of redis for session in .Net. Tests performance as well
